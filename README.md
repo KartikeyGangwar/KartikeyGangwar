@@ -1,16 +1,16 @@
-## Hi there 👋
+# Kartikey
 
-<!--
-**KartikeyGangwar/KartikeyGangwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Mathematics Research**
 
-Here are some ideas to get you started:
+Implementing Physics-Informed Neural Networks for solving PDEs - 
+both fluid dynamics (Navier-Stokes) and financial mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- PINNs for financial PDEs
+- Learning C++ for numerical computing
+- Exploring Fourier Neural Operators
+
+### Tools
+Python, PyTorch, C++ (learning)
+
+[LinkedIn](in/kartikey-singh-2a3434329) | [Email](kartikeysingh525@gmail.com)
