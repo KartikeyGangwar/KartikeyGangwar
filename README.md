@@ -2,7 +2,7 @@
 
 **Computational Mathematics Research**
 
-Implementing Physics-Informed Neural Networks for solving PDEs - 
+Learning to Implement Physics-Informed Neural Networks on - 
 both fluid dynamics (Navier-Stokes) and financial mathematics.
 
 ### Currently
