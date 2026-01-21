@@ -13,4 +13,4 @@ both fluid dynamics and Stochastic volatility models.
 ### Tools
 Python, PyTorch, C++ (learning)
 
-[LinkedIn](in/kartikey-singh-2a3434329) | [Email](kartikeysingh525@gmail.com)
+[LinkedIn](in/kartikey-singh-2a3434329) | [Email](email@.com)
