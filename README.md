@@ -6,11 +6,11 @@ Learning to Implement Physics-Informed Neural Networks on -
 both fluid dynamics and Stochastic volatility models.
 
 ### Currently
-- PINNs for financial PDEs
+- PINNs for PDEs and SDEs
 - Learning C++ for numerical computing
-- Exploring Fourier Neural Operators
+- Exploring Neural Operators
 
 ### Tools
-Python, PyTorch, C++ (learning)
+Python, PyTorch, Numpy
 
 [LinkedIn](in/kartikey-singh-2a3434329) | [Email](email@.com)
