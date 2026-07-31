@@ -1,4 +1,4 @@
-# Kartikey
+# Kartikeya Gangwar
 
 **Computational Mathematics Research**
 
