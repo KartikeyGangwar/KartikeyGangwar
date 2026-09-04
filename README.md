@@ -4,7 +4,7 @@ Undergraduate Researcher in **Computational Mathematics & Scientific Machine Lea
 
 Investigating the intersection of **geometric deep learning**, **numerical PDEs**, **high-dimensional stochastic control**, and **high-performance scientific computing**. Research emphasizes exact mathematical invariants (symplectic conservation, parameter null-space decoupling, hard boundary constraints) and bare-metal computational efficiency.
 
-[Portfolio](https://kartikeygangwar.github.io) • [ORCID (0009-0009-1973-7532)](https://orcid.org/0009-0009-1973-7532) • [LinkedIn](https://www.linkedin.com/in/kartikey-singh-2a3434329/) • [Email](mailto:kartikeysingh525@protonmail.com)
+[Portfolio](https://kartikeyagangwar.github.io) • [ORCID (0009-0009-1973-7532)](https://orcid.org/0009-0009-1973-7532) • [LinkedIn](https://www.linkedin.com/in/kartikey-singh-2a3434329/) • [Email](mailto:kartikeysingh525@protonmail.com)
 
 ---
 
@@ -40,7 +40,7 @@ Investigating the intersection of **geometric deep learning**, **numerical PDEs*
 ## Contact & Identifiers
 
 - **Email:** [kartikeysingh525@protonmail.com](mailto:kartikeysingh525@protonmail.com)
-- **Portfolio:** [kartikeygangwar.github.io](https://kartikeygangwar.github.io)
+- **Portfolio:** [kartikeyagangwar.github.io](https://kartikeyagangwar.github.io)
 - **ORCID:** [0009-0009-1973-7532](https://orcid.org/0009-0009-1973-7532)
 - **LinkedIn:** [kartikey-singh-2a3434329](https://www.linkedin.com/in/kartikey-singh-2a3434329/)
 - **Zenodo:** [Kartikey Singh on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Singh%2C%20Kartikey%22)
